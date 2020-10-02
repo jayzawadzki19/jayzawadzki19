@@ -12,17 +12,19 @@ ___
 [<img align="left" alt="Jakub Zawadzki | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jakub Zawadzki | Facebook" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" />][facebook]
 
+<br />
+
 ### Languages and Tools:
-<img height="32" width="32" alt="intellijidea" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />
-<img height="32" width="32" alt="java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-<img height="32" width="32" alt="angular" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
-<img height="32" width="32" alt="spring" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
-<img height="32" width="32" alt="html5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img height="32" width="32" alt="javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img height="32" width="32" alt="css3" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img height="32" width="32" alt="mysql" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
-<img height="32" width="32" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img height="32" width="32" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img align="left" height="32" width="32" alt="intellijidea" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />
+<img align="left" height="32" width="32" alt="java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" height="32" width="32" alt="angular" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
+<img align="left" height="32" width="32" alt="spring" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
+<img align="left" height="32" width="32" alt="html5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left" height="32" width="32" alt="javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" height="32" width="32" alt="css3" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img align="left" height="32" width="32" alt="mysql" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+<img align="left" height="32" width="32" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" height="32" width="32" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
 
 
 
