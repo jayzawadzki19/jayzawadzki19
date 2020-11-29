@@ -15,7 +15,6 @@ ___
 <br />
 
 ### Languages and Tools:
-<img align="left" height="32" width="32" alt="intellijidea" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />
 <img align="left" height="32" width="32" alt="java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" height="32" width="32" alt="angular" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
 <img align="left" height="32" width="32" alt="spring" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
@@ -25,6 +24,8 @@ ___
 <img align="left" height="32" width="32" alt="mysql" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <img align="left" height="32" width="32" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 <img align="left" height="32" width="32" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img align="left" height="32" width="32" alt="intellijidea" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />
+
 
 
 
